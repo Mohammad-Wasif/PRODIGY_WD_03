@@ -18,6 +18,21 @@ body {
 h1 {
     color: #fff;
 }
+footer {
+    text-align: center;
+    user-select: none;
+    padding: 10px 0;
+    width: 100%;
+    background: transparent;
+    position: absolute;
+    bottom: 0;
+}
+
+footer p {
+    font-size: 0.8rem;
+    color: #fff;
+}
+
 
 #turn-message {
     margin: 10px 0;
